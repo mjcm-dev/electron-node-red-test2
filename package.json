@@ -26,7 +26,8 @@
         "node-red-node-smooth": "*",
         "node-red-contrib-play-audio": "*",
         "node-red-node-base64": "*",
-        "express": "*"
+        "express": "*",
+        "node-red-node-notify": "*"
     },
     "keywords": [
         "electron",

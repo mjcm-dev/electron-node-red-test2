@@ -111,7 +111,8 @@
         "node-red-node-weather-underground": "*",
         "node-red-node-what3words": "*",
         "node-red-node-wordpos": "*",
-        "node-red-node-xmpp": "*"
+        "node-red-node-xmpp": "*",
+	"node-red-node-notify": "*"
     },
     "keywords": [
         "electron",
